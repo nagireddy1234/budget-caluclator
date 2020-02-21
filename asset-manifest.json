@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/budget-caluclator/static/css/main.db945ab5.chunk.css",
+    "main.js": "/budget-caluclator/static/js/main.55e891cb.chunk.js",
+    "main.js.map": "/budget-caluclator/static/js/main.55e891cb.chunk.js.map",
+    "runtime-main.js": "/budget-caluclator/static/js/runtime-main.4d45278c.js",
+    "runtime-main.js.map": "/budget-caluclator/static/js/runtime-main.4d45278c.js.map",
+    "static/js/2.afe2dbea.chunk.js": "/budget-caluclator/static/js/2.afe2dbea.chunk.js",
+    "static/js/2.afe2dbea.chunk.js.map": "/budget-caluclator/static/js/2.afe2dbea.chunk.js.map",
+    "index.html": "/budget-caluclator/index.html",
+    "precache-manifest.ae9ee97b80979eacad7137eebd266a11.js": "/budget-caluclator/precache-manifest.ae9ee97b80979eacad7137eebd266a11.js",
+    "service-worker.js": "/budget-caluclator/service-worker.js",
+    "static/css/main.db945ab5.chunk.css.map": "/budget-caluclator/static/css/main.db945ab5.chunk.css.map",
+    "static/js/2.afe2dbea.chunk.js.LICENSE.txt": "/budget-caluclator/static/js/2.afe2dbea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d45278c.js",
+    "static/js/2.afe2dbea.chunk.js",
+    "static/css/main.db945ab5.chunk.css",
+    "static/js/main.55e891cb.chunk.js"
+  ]
+}
