@@ -88,6 +88,7 @@ function App() {
     setAmount(amount)
     setEdit(true)
     setId(id)
+    handleAlert({ type: "success", text: "Please Edit Item" });
     // console.log(expense)
     // console.log(`item edited : ${id}`)
   }
