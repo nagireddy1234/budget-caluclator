@@ -5,7 +5,6 @@ import ExpenseForm from "./Components/ExpenseForm";
 import ExpenseList from "./Components/ExpenseList";
 import uuid from "uuid/v4";
 
-
 // const iniitialExpenses = [
 //   { id: uuid(), charge: "rent", amount: 800 },
 //   { id: uuid(), charge: "car payment", amount: 1000 },
